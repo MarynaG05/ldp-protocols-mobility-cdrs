@@ -1,5 +1,7 @@
 
-The experiments from this GitHub repository https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/tree/main were conducted during the course 188.992 Experiment Design for Data Science at TU Wien. Great work by Héber H. Arcolezi, Jean-François Couchot, Bechara Al Bouna, Xiaokui Xiao, through Maryna Gutruf, and Adnan Rafique Butt. Excellent implementation!
+The experiments from this GitHub repository https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/tree/main were conducted during the course 188.992 Experiment Design for Data Science at TU Wien. Great work by Héber H. Arcolezi, Jean-François Couchot, Bechara Al Bouna, Xiaokui Xiao.
+
+Maryna Gutruf and Adnan Rafique Butt successfully reran the experiments. Excellent implementation!
 
 Our suggestions for improvement are as follows:
 
