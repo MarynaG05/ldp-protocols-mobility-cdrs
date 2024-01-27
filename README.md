@@ -1,4 +1,7 @@
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10576431.svg)](https://zenodo.org/badge/latestdoi/10.5281/zenodo.10576431)
+
+
 The experiments from this GitHub repository https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/tree/main were conducted during the course 188.992 Experiment Design for Data Science at TU Wien. Great work by Héber H. Arcolezi, Jean-François Couchot, Bechara Al Bouna, Xiaokui Xiao.
 
 Maryna Gutruf and Adnan Rafique Butt successfully reran the experiments. Excellent implementation!
