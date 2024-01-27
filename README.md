@@ -1,3 +1,9 @@
+
+## How to run the project 
+1. create a virtual environment python3 -m venv venv
+2. activate virtual environment source venv/bin/activate
+3. install necessary libraries and their versions: pip install -r requirements.txt
+
 ## Update
 We have released a package named [Multi-Freq-LDPy](https://github.com/hharcolezi/multi-freq-ldpy) for Multiple Frequency Estimation Under Local Differential Privacy in Python.
 
